@@ -477,7 +477,7 @@ export default function Page() {
                 marketplace
               </div>
               <h1 className="text-5xl font-semibold leading-tight tracking-tight text-white md:text-7xl">
-                Shop premium.
+                Discover Better Shopping.
                 <span className="block text-orange-500">Live better.</span>
               </h1>
               <p className="mt-6 max-w-xl text-base leading-8 text-slate-300 md:text-lg">
